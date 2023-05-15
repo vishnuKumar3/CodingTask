@@ -1,0 +1,2 @@
+<h1>Coding Task</h1>
+<i>This codebase contains api,who functionality is to read data from a csv and to fetch the city with most population and the second functionality is to fetch the population details based on the city passed</i>
